@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 module FakeStoreAPIService
-  # `FakeStoreAPIService::Client` используется для взаимодействия с Fake Store API.
-  # Предоставляет методы для получения корзин, пользователей и продуктов.
+  # `FakeStoreAPIService::Client` используется для взаимодействия с Fake Store API
+  # Предоставляет методы для получения корзин, пользователей и продуктов
   class Client
     BASE_URL = 'https://fakestoreapi.com'
 
